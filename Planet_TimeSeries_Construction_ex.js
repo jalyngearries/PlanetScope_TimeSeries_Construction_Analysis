@@ -1,4 +1,4 @@
-
+https://code.earthengine.google.com/6248019f64e22c0e2dc6309000fe9875
         // IMAGE COLLECTION -->  SITE HEALTH DATA
 
 // import image collections
